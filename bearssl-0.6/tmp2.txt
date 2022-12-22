@@ -1,0 +1,5 @@
+total 1256
+drwxr-xr-x 3 apps apps   4096 Dec 21 17:46 android
+-rw-r--r-- 1 apps apps 699238 Dec 22 02:39 libbearssl.a
+-rwxr-xr-x 1 apps apps 561412 Dec 22 02:39 libbearssl.so
+drwxr-xr-x 2 apps apps  16384 Dec 22 02:39 obj

@@ -1,0 +1,6 @@
+libcurl-bearssl-android
+=======================
+
+build scripts and statically linked *.a archives
+(in build/android/obj/local/$NDK_ARCH)
+for libcurl and bearssl on Android (ARM & x86, 32 & 64 bit)
